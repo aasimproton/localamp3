@@ -10,7 +10,7 @@ def handler(event, context):
 
     # Now, send a 200 and include our event details.
     response = {
-        'statusCode': 200,
+        'statusCode': 201,
         'body': event_string
     }
 
