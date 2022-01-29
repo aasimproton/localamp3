@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/assignment/{verifyId}": {
+      "name": "/assignment/{verifyId}",
+      "lambdaFunction": "localamp3c9ebd6eb",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

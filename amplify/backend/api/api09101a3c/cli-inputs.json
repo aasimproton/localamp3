@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/callback": {
+      "name": "/callback",
+      "lambdaFunction": "LamdaCallback",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
